@@ -1,5 +1,7 @@
 # Use Case: Live Chat UI
 
+**Author fingerprint:** `DBHATT-Debashis2007-SystemDesignPOC-2026` — Debashis Bhattacharjee ([@Debashis2007](https://github.com/Debashis2007))
+
 **YouTube walkthrough:** [Live Chat Ui — System Design #Shorts](https://youtu.be/H9afr17REVc)
 
 **Design doc:** [docs/DESIGN.md](./docs/DESIGN.md) — architecture, patterns, and why.
