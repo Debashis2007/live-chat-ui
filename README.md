@@ -1,5 +1,7 @@
 # Use Case: Live Chat UI
 
+**YouTube walkthrough:** [Live Chat Ui — System Design #Shorts](https://youtu.be/H9afr17REVc)
+
 **Design doc:** [docs/DESIGN.md](./docs/DESIGN.md) — architecture, patterns, and why.
 
 
@@ -48,6 +50,9 @@ Reuse: `generation_id` + `seq`, SSE default, backpressure that protects GPUs, id
 
 
 ## Design walkthrough (opens on GitHub)
+
+> **Watch on YouTube:** [Live Chat Ui — System Design #Shorts](https://youtu.be/H9afr17REVc)
+
 
 ![Design overview](docs/video/design-overview.gif)
 
