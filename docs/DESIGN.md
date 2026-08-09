@@ -1,7 +1,7 @@
 # Design: Live Chat UI
 
 **Project:** `live-chat-ui`  
-**Parent system design:** [02 — Streaming Token Delivery](../02-streaming-token-delivery.md)
+**Parent system design:** [02 — Streaming Token Delivery](https://github.com/Debashis2007/live-chat-ui/blob/main/02-streaming-token-delivery.md)
 
 ## 1. What this POC demonstrates
 

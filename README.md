@@ -7,8 +7,8 @@
 **Design doc:** [docs/DESIGN.md](./docs/DESIGN.md) — architecture, patterns, and why.
 
 
-**Parent system design:** [02 — Streaming Token Delivery](./02-streaming-token-delivery.md)  
-**Also references:** [10 — Global realtime product](./10-global-realtime-product-surface.md)
+**Parent system design:** [02 — Streaming Token Delivery](https://github.com/Debashis2007/live-chat-ui/blob/main/02-streaming-token-delivery.md)  
+**Also references:** [10 — Global realtime product](https://github.com/Debashis2007/live-chat-ui/blob/main/10-global-realtime-product-surface.md)
 
 ## Users & problem
 
@@ -39,8 +39,8 @@ Reuse: `generation_id` + `seq`, SSE default, backpressure that protects GPUs, id
 |---------|----------------|
 | Protocol | SSE over HTTP/2; disable proxy buffering |
 | UX | Optimistic user message; streaming assistant placeholder |
-| Multi-device | Sync via conversation seq ([10](./10-global-realtime-product-surface.md)) |
-| Safety | Mid-stream interrupt events ([06](./06-safety-moderation-pipeline.md)) |
+| Multi-device | Sync via conversation seq ([10](https://github.com/Debashis2007/live-chat-ui/blob/main/10-global-realtime-product-surface.md)) |
+| Safety | Mid-stream interrupt events ([06](https://github.com/Debashis2007/live-chat-ui/blob/main/06-safety-moderation-pipeline.md)) |
 
 ## Failure modes
 
